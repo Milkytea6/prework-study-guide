@@ -10,7 +10,8 @@ footer {
     color: white;
 }
 h1,
-h2 {
+h2,
+h3 {
     text-align: center;
 }
 .image1 {
@@ -28,6 +29,10 @@ h2 {
     margin-right: auto;
 }
 ul {
+    padding-left: 40px;
+    font-size: 20px;
+}
+ol {
     padding-left: 40px;
     font-size: 20px;
 }
